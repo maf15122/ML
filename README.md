@@ -1,3 +1,2 @@
 maf15122: Here are the links for our project:
-1) https://www.kdnuggets.com/2019/04/building-recommender-system.html
-Another Possible data set:
+1) KNN algorithm and metrics 
