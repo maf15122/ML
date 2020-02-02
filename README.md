@@ -25,6 +25,6 @@ References:
 
 3) https://datasets.imdbws.com/: IMDb dataset.
 
-4)https://builtin.com/data-science/recommender-systems: This article starts out with an explaination of what recommender systems are and then walks us through different types of similarity measure; Minkowski Distance is used when the data points are numerical, Manhattan Distance is the distance between two points measured along axes at right angles, Euclidean distance or the L2 norm, Cosine similarity, Pearson Coefficient is the measure of correlation between two random variables and ranges between [-1,1], Jaccard Similarity is used where the objects are points or vectors, and Hamming Distance is used for categorical variables.
+4) https://builtin.com/data-science/recommender-systems: This article starts out with an explaination of what recommender systems are and then walks us through different types of similarity measure; Minkowski Distance is used when the data points are numerical, Manhattan Distance is the distance between two points measured along axes at right angles, Euclidean distance or the L2 norm, Cosine similarity, Pearson Coefficient is the measure of correlation between two random variables and ranges between [-1,1], Jaccard Similarity is used where the objects are points or vectors, and Hamming Distance is used for categorical variables.
 
 5) https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7452337: An article about Memory-based recommender systems including algorithm.
