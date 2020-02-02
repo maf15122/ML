@@ -23,7 +23,7 @@ References:
 
 2) https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761: A step by step Python code of KNN algorithm
 
-3) IMDb Dataset: https://datasets.imdbws.com/
+3) https://datasets.imdbws.com/: IMDb dataset.
 
 4)https://builtin.com/data-science/recommender-systems: This article starts out with an explaination of what recommender systems are and then walks us through different types of similarity measure; Minkowski Distance is used when the data points are numerical, Manhattan Distance is the distance between two points measured along axes at right angles, Euclidean distance or the L2 norm, Cosine similarity, Pearson Coefficient is the measure of correlation between two random variables and ranges between [-1,1], Jaccard Similarity is used where the objects are points or vectors, and Hamming Distance is used for categorical variables.
 
