@@ -1,0 +1,5 @@
+1) categorical variables in python
+https://www.datacamp.com/community/tutorials/categorical-data
+
+2) Linear Regression in python 
+https://towardsdatascience.com/simple-and-multiple-linear-regression-with-python-c9ab422ec29c
